@@ -21,6 +21,6 @@
 <p><a href="https://www.buymeacoffee.com/TorSkiZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TorSkiZ" /></a></p><br><br>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torskiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="torskiz" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=torskiz&show_icons=true&theme=dark&locale=en" alt="torskiz" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=torskiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="torskiz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=torskiz&show_icons=true&theme=dark&locale=en" alt="torskiz" />
 </div>
