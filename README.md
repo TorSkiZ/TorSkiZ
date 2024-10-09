@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiktor Wasiński</h1>
 <h3 align="center">A passionate IT specialist and web developer from Poland</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torskiz&theme=flat&no-bg=true&no-frame=true" alt="torskiz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torskiz&theme=dark_dimmed&no-bg=true&no-frame=true" alt="torskiz" /></a> </p>
 
 - 🌱 I’m currently learning **C and Java**
 
